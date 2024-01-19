@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Ignacio Valdebenito 👋
 
-<!--
-**therexuz/therexuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Civil Computer Engineer with a passion for software engineering, cybersecurity, and IT infrastructure. I stand out for my problem-solving skills, frustration tolerance, responsibility, and leadership.
 
-Here are some ideas to get you started:
+## Experience 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Developer** at Digital Partners, where I worked on the integration of an RFP module using Django, GraphQL, and PostgreSQL.
+- **Software Engineer** at Semantia Spa, where I worked on the promotion of the service and the operation of Brandon Metrics.
+
+## Skills 🧠
+
+- English - Intermediate B1
+- Mathematical logic
+- Self-management and discipline
+- Impact and influence
+- Teamwork
+- Resolute
+- Spanish - Native
+
+## Programming Languages 💻
+
+!Python
+!Java
+!JavaScript
+!C++
+!SQL
+
+## Portfolio 🌐
+
+You can see more of my work on my portfolio.
+
