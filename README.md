@@ -86,4 +86,4 @@ Each repository is documented with **clear architecture decisions and real-world
 ## 🌐 Portfolio
 
 You can also check my personal portfolio (Angular 16):  
-👉 https://portfolio-web-eb872.web.app/
+👉 In progress...
