@@ -1,89 +1,79 @@
 # Hi, I'm Ignacio Valdebenito 👋  
 
-I'm a **Civil Computer Engineer** specialized in **system integrations and process automation**, with hands-on experience designing and implementing **API-based solutions, conversational flows, and cloud-native services** in production environments.  
+I'm a **Civil Computer Engineer** and **Backend Software Engineer** specialized in designing and building **distributed architectures, microservices, and event-driven integrations** for high-demand production environments[cite: 1]. 
 
-I focus on building **reliable, scalable, and maintainable integrations** that connect business platforms, automate operational processes, and improve service efficiency, especially in **contact center and digital channels**.
-
----
-
-## 🚀 Professional Focus
-
-- System & platform integrations (REST APIs, Webhooks)
-- Process automation and digital workflows
-- Conversational automation (WhatsApp, IVR, bots)
-- Cloud-based backend services
-- Operational reliability, error handling & observability
+I focus on developing **scalable, decoupled, and reliable backend services**, optimizing data consistency, managing complex conversational states, and implementing robust observability standards[cite: 1].
 
 ---
 
-## 🛠️ Experience
+## 🚀 Technical Focus
 
-### **Integration & Automation Engineer** – *ACL Tecnología (Client: AFP Capital)*  
-- Design and implementation of **integrations between Genesys Cloud, WhatsApp Business API and IBM Watson Assistant**.  
-- Automation of **critical digital processes** (customer authentication, benefit requests), reducing manual workload in contact center operations.  
-- Development of **conversational flows** for IVR and messaging channels, ensuring traceability, error handling and business continuity.  
-- Collaboration with business, legal and operations teams under **Agile/Scrum** methodologies.
+- **Backend Architecture:** Microservices, Event-Driven Architecture, Asynchronous Programming[cite: 1].
+- **API Design & Orchestration:** RESTful APIs, Webhooks, Hybrid Orchestration Models[cite: 1].
+- **State Management & Logic:** Complex conversational flows, business logic centralization[cite: 1].
+- **Cloud & Infrastructure:** Cloud-native services (GCP/Firebase), containerization (Docker)[cite: 1].
+- **Resilience & Monitoring:** Advanced error handling, retries, and system observability[cite: 1].
+
+---
+
+## 🛠️ Professional Experience
+
+### **Backend & Integrations Engineer** – *ACL Tecnología (Client: AFP Capital)*[cite: 1]  
+- Designed and built a **hybrid event-driven orchestration backend** using Google Cloud Run, decoupling critical business logic from external messaging providers[cite: 1].
+- Implemented **centralized state management components** to handle complex conversation lifecycles and dynamic routing[cite: 1].
+- Developed high-throughput asynchronous integrations (APIs/Webhooks) connecting **Genesys Cloud CX, WhatsApp Business API, and IBM Watson Assistant**[cite: 1].
+- Designed and automated **secure transactional backends** for sensitive financial workflows (identity validation and customer onboarding)[cite: 1].
+- Enforced technical tracking standards (`message_id`, `deflector_data_id`) to ensure end-to-end **observability and metrics monitoring**[cite: 1].
 
 ### **Backend Developer** – *Digital Partners*  
-- Backend development and integration of an **RFP management module** using **Django, GraphQL and PostgreSQL**.  
-- Focus on API design, data consistency and system interoperability.
+- Developed and integrated an **RFP management module** using **Django, GraphQL, and PostgreSQL**.  
+- Focused on API performance, strict data consistency, and seamless system interoperability.
 
-### **Software Engineer** – *Semantia SpA*  
-- Design and implementation of **cloud-based software solutions**, including infrastructure setup and service automation.  
-- Development of features oriented to **user experience improvement and data capture** for analytics.
+### **Software Engineer / Cloud Developer** – *Semantia SpA (Brandon Metrics)*[cite: 1]  
+- Architected and deployed **cloud infrastructure on Google Cloud Platform (GCP)** for scalable distributed backends[cite: 1].
+- Built automated background services for **data processing, metrics capture, and audit log analysis**[cite: 1].
 
-### **Software Engineer** – *Senior Alywen SpA*  
-- Development of a **management system for elderly care facilities**, contributing to the digitalization of operational processes.  
-- Participation in requirement analysis, backend development and delivery under Scrum.
-
----
-
-## 🧠 Core Skills
-
-- Systems integration & automation  
-- API design & backend development  
-- Problem-solving & analytical thinking  
-- Self-management and ownership  
-- Team collaboration & technical communication  
-- Spanish (Native) | English (Intermediate – B1)
+### **Backend Developer** – *Senior Alywen SpA*[cite: 1]  
+- Designed the server-side architecture and data models using **Django and SQLite/Firebase** for an enterprise management application[cite: 1].
+- Translated operational needs into performant API endpoints under Scrum methodologies[cite: 1].
 
 ---
 
 ## 💻 Technologies & Tools
 
 **Languages & Frameworks**  
-- Python, JavaScript / TypeScript  
-- FastAPI, Flask, Node.js, Express  
-- Angular  
+- Python (FastAPI, Flask, Django)[cite: 1]
+- JavaScript / TypeScript (Node.js, Express)[cite: 1]
 
-**Databases**  
-- PostgreSQL, MySQL, MongoDB, SQLite, MSSQL  
+**Databases & Caching**  
+- PostgreSQL, MySQL, SQLite, MongoDB, MSSQL, Firebase Realtime DB[cite: 1]
 
 **Cloud & DevOps**  
-- Google Cloud Platform (GCP), Firebase  
-- Docker, Git, CI/CD  
+- Google Cloud Platform (GCP), Cloud Run, Firebase[cite: 1]
+- Docker, Git, CI/CD Pipelines[cite: 1]
 
-**Enterprise & Automation Platforms**  
-- Genesys Cloud CX  
-- WhatsApp Business API  
-- IBM Watson Assistant  
+**Enterprise & Contact Center Tech**  
+- Genesys Cloud CX (APIs & SDKs), WhatsApp Business API, IBM Watson Assistant[cite: 1]
+
+**Security (Transversal)**  
+- Vulnerability analysis, secure design principles (OWASP), ethical hacking concepts (eJPT certified)[cite: 1].
 
 ---
 
 ## 📌 What you'll find here
 
-This GitHub is used as a **technical portfolio**, showcasing projects related to:
+This GitHub serves as my **technical backend portfolio**, showcasing repositories focused on:
 
-- Integration services and API orchestration  
-- Automation of business processes  
-- Event-driven architectures  
-- Error handling, retries and operational resilience  
+- **Microservices & Orchestration:** Real use cases of decoupled application logic.
+- **Event-Driven Patterns:** Handling asynchronous triggers and status payloads.
+- **Clean Code & Design:** Production-ready structures emphasizing error boundary controls.
 
-Each repository is documented with **clear architecture decisions and real-world use cases**.
+Each repository contains detailed markdown documentation explaining architectural decisions, database schemas, and API contracts.
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect with me
 
-You can also check my personal portfolio (Angular 16):  
-👉 In progress...
+- 📧 ignacio.valdebenito.caceres@gmail.com[cite: 1]
+- 💼 [LinkedIn]
+- 🗣️ Spanish (Native) | English (Intermediate – B1 Cambridge Certified)[cite: 1]
