@@ -18,7 +18,7 @@ I focus on developing **scalable, decoupled, and reliable backend services**, op
 
 ## 🛠️ Professional Experience
 
-### **Analyts, Backend & Integrations Engineer** – *ACL Tecnología (Client: AFP Capital)*
+### **Project Analyst, Backend & Integrations Engineer** – *ACL Tecnología (Client: AFP Capital)*
 - Designed and built a **hybrid event-driven orchestration backend** using Google Cloud Run, decoupling critical business logic from external messaging providers.
 - Implemented **centralized state management components** to handle complex conversation lifecycles and dynamic routing.
 - Developed high-throughput asynchronous integrations (APIs/Webhooks) connecting **Genesys Cloud CX, WhatsApp Business API, and IBM Watson Assistant**.
